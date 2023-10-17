@@ -1,0 +1,20 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body {
+text-align: center;   
+    background-repeat:no-repeat;
+    background-size:cover;        
+}
+.Experiencia {
+    text-align: left;
+}
+.Experiencia {
+    color: rgb(0, 0, 0);
+}
+.hobbies{
+    text-align: left;
+}
+.Contacto{
+    color:aliceblue;
+}
